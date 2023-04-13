@@ -2,7 +2,7 @@
 - 👀 I’m interested in solidity
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me twitter @cvsledgend
+- 📫 How to reach me twitter @cvslegend
 
 <!---
 zoelidity/zoelidity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
